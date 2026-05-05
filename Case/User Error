@@ -1,0 +1,16 @@
+## Case: User Access Issue
+
+**Problem**
+User unable to access system.
+
+**Analysis**
+Permission misconfiguration.
+
+**Action**
+Updated access rights.
+
+**Result**
+User regained access.
+
+**Key Takeaway**
+Access control must be verified first.
